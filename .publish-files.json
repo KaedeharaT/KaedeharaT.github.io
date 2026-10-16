@@ -1,0 +1,38 @@
+{
+  "repository_files": [
+    ".gitignore",
+    ".nojekyll",
+    "index.html",
+    "README.md",
+    "THIRD_PARTY_NOTICES.md",
+    ".publish-files.json",
+    "scripts/preview.py",
+    "scripts/sync_static.py",
+    "scripts/package_site.py",
+    "scripts/check_site.py",
+    ".github/workflows/verify.yml",
+    "assets/css/style.css",
+    "assets/js/app.js",
+    "assets/js/content.js",
+    "assets/img/favicon.svg",
+    "assets/img/profile.jpg",
+    "assets/img/phd-research-overview.png",
+    "assets/img/hvac-ai-analyzer-dashboard.webp",
+    "assets/img/hvac-ai-analyzer-energy-analysis.webp",
+    "assets/img/hvac-ai-analyzer-diagnostics.webp"
+  ],
+  "site_files": [
+    "index.html",
+    ".nojekyll",
+    "THIRD_PARTY_NOTICES.md",
+    "assets/css/style.css",
+    "assets/js/app.js",
+    "assets/js/content.js",
+    "assets/img/favicon.svg",
+    "assets/img/profile.jpg",
+    "assets/img/phd-research-overview.png",
+    "assets/img/hvac-ai-analyzer-dashboard.webp",
+    "assets/img/hvac-ai-analyzer-energy-analysis.webp",
+    "assets/img/hvac-ai-analyzer-diagnostics.webp"
+  ]
+}
